@@ -60,6 +60,10 @@ defeat:期間切り替え機能
 
 
 # 起動方法
+コマンドプロンプト上にて以下のコマンドを入力する
+
+cd schedulea-pp
+
 npm run dev
 # 動作確認の手順
 1. ブラウザで(http://localhost:5173/) を開く
